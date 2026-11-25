@@ -1,5 +1,5 @@
 {
-  "version": "8.29",
-  "notes": "v8.29：新增启动时自动检查更新功能",
+  "version": "8.30",
+  "notes": "v8.30：绿色按钮提示改为随机换图标；红色按钮增加退出确认弹窗",
   "exe": "dingding-clicker.exe"
 }
